@@ -1,63 +1,56 @@
 .box1 {
-    width: 20em;
-    height: 20em;
     background-color: #FF0000;
-    z-index: 1;
-    margin-bottom: 0.7em;
-    position: relative;
+    width: 320px;
+    height: 320px;
+    margin: auto;
+    position: absolute;
+
 }
 
 .box2 {
-    top: -16em;
-    left: 4.7em;
-    width: 10em;
-    height: 10em;
+    content: "";
     background-color: #800080;
-    z-index: 2;
-    margin-bottom: 0.7em;
-    position: relative;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 85px;
+    top: 85px;
+  
 }
 
 .box3 {
-    top: -26.7em;
-    left: 4.7em;
-    width: 5em;
-    height: 5em;
+    content: "";
     background-color: #FFFF00;
-    z-index: 3;
-    margin-bottom: 0.7em;
-    position: relative;
+    position: absolute;
+    width: 75px;
+    height: 75px;
 }
 
 .box4 {
-    top: -16.5em;
-    left: 0.05em;
-    width: 20em;
-    height: 20em;
     background-color: #0000FF;
-    z-index: 4;
-    margin-bottom: 0.7em;
-    position: relative;
+    position: absolute;
+    margin-left: 0px;
+    width: 320px;
+    height: 320px;
+    top: 340px;
+
 }
 
 .box5 {
-    top: -32.1em;
-    left: 5.09em;
-    width: 10em;
-    height: 10em;
-    background-color: #008000;
-    z-index: 5;
-    margin-bottom: 0.7em;
-    position: relative;
+    content: "";
+    background-color: #000000;
+    position: absolute;
+    width: 85px;
+    height: 85px;
+
 }
 
 .box6 {
-    top: -47.9em;
-    left: 0.09em;
-    width: 5em;
-    height: 5em;
-    background-color: #000000;
-    z-index: 6;
-    margin-bottom: 0.7em;
-    position: relative;
+    content: "";
+    background-color: #008000;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 85px;
+    top: 85px;
 }
